@@ -88,8 +88,8 @@ sections:
       66020 San Giovanni Teatino (CH)
     url: https://www.google.com/maps/dir/42.3477216,14.3896123/Begin+s.n.c.+di+Di+Clerico+%26+C.,+Via+Vittorio+Emanuele+II,+34,+66020+San+Giovanni+teatino+CH,+Italia/@42.3850254,14.1370115,11z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x1331a7daea2810d1:0x15d03ac55786b492!2m2!1d14.177259!2d42.414569
   - title: Email
-    text: user@Hyperspace.tld
-    url: "#"
+    text: info@begingroup.it
+    url: mailto:info@begingroup.it
   - title: Phone
     text: "(000) 000-0000"
     url: ''
