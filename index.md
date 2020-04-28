@@ -17,13 +17,13 @@ sidebar:
 sections:
 - type: intro
   template: intro
-  title: Begin
+  title: Sinergie per il tuo web business
   subtitle: "Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  \ncol
     accumsan est arcu donec sed Eleifend Integer."
   section_id: intro
   background_style: style1
   actions:
-  - label: Learn more
+  - label: Scopri di più....
     url: "#one"
     is_scrolly: true
     is_primary: false
