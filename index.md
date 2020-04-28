@@ -30,7 +30,7 @@ sections:
   component: intro.html
 - type: spotlights
   template: spotlights
-  title: Spotlights Section
+  title: Chi siamo
   section_id: one
   background_style: style2
   component: spotlights.html
@@ -41,29 +41,29 @@ sections:
     mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit
     bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.
   section_id: two
-  background_style: style3
+  background_style: style4
   features_list:
-  - title: Lorem ipsum amet
+  - title: Applicativi desktop
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
     icon: fa-code
-  - title: Aliquam sed nullam
+  - title: Web application
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
     icon: fa-lock
-  - title: Sed erat ullam corper
+  - title: Archiviazione documentale
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
     icon: fa-cog
-  - title: Veroeros quis lorem
+  - title: Siti web
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
     icon: fa-desktop
-  - title: Urna quis bibendum
+  - title: E-commerce
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
     icon: fa-chain
-  - title: Aliquam urna dapibus
+  - title: Web Marketing
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
     icon: fa-diamond
