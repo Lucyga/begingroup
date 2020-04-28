@@ -1,7 +1,8 @@
+---
 landing_style: style1-alt
 alt_style: alt
-copyright: '&copy; Hyperspace. All rights reserved.'
+copyright: "&copy; begin s.n.c."
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+- text: made by Begin
+  url: https://www.ibegin.it
+  new_window: true
