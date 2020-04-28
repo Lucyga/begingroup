@@ -2,22 +2,22 @@
 title: Home
 sidebar:
   entries:
-    - title: Welcome
-      url: '#intro'
+    - title: Benvenuto
+      url: "#intro"
       is_primary: true
-    - title: Who we are
-      url: '#one'
+    - title: Chi siamo
+      url: "#one"
       is_primary: false
-    - title: What we do
-      url: '#two'
+    - title: Cosa facciamo
+      url: "#two"
       is_primary: false
-    - title: Get in touch
-      url: '#three'
+    - title: Restiamo in contatto
+      url: "#three"
       is_primary: false
 sections:
   - type: intro
     template: intro
-    title: Hyperspace
+    title: Begin
     subtitle: |-
       Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  
       col accumsan est arcu donec sed Eleifend Integer.
@@ -25,7 +25,7 @@ sections:
     background_style: style1
     actions:
       - label: Learn more
-        url: '#one'
+        url: "#one"
         is_scrolly: true
         is_primary: false
     component: intro.html
@@ -100,7 +100,7 @@ sections:
           USA
       - title: Email
         text: user@Hyperspace.tld
-        url: '#'
+        url: "#"
       - title: Phone
         text: (000) 000-0000
     social:
@@ -108,19 +108,19 @@ sections:
       social_icons:
         - title: Twitter
           icon: fa-twitter
-          url: '#'
+          url: "#"
         - title: Facebook
           icon: fa-facebook
-          url: '#'
+          url: "#"
         - title: GitHub
           icon: fa-github
-          url: '#'
+          url: "#"
         - title: Instagram
           icon: fa-instagram
-          url: '#'
+          url: "#"
         - title: LinkedIn
           icon: fa-linkedin
-          url: '#'
+          url: "#"
     component: contact.html
 menus:
   main:
