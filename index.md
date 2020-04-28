@@ -68,7 +68,7 @@ sections:
       turpis mauris, sed ultricies erat dapibus.
     icon: fa-diamond
   actions:
-  - label: Learn more
+  - label: Scopri di più...
     url: "/generic"
     is_scrolly: false
     is_primary: false
