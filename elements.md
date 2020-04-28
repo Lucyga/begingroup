@@ -1,8 +1,8 @@
 ---
-title: Elements
-menus:
-  main:
-    title: Elements
-    weight: 3
+title: Elementi
 layout: elements
+menu:
+  main:
+    weight: 3
+
 ---
